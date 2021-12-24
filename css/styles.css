@@ -45,7 +45,7 @@ p {
   animation-name: fading2;
   animation-duration: 20s;
   animation-iteration-count: infinite;
-  bottom: 100px;
+  bottom: 110px;
 }
 
 @keyframes fading1 {
